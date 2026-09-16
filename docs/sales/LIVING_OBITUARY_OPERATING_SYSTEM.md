@@ -2,9 +2,13 @@
 
 **Locked. Not optional. Not seasonal. Not marketing.**
 
+Canonical lock: `docs/CHARTER.md`  
+Velocity engine (Musk methods, subordinate): `docs/sales/MUSK_VELOCITY_ENGINE.md`  
+Sales stack (Komar methods, subordinate): `docs/sales/LIVING_OBITUARY_GTM_PLAYBOOK.md`
+
 This document sits above every playbook, sales stack, AI tool, and theory we apply — Komar, Musk, HubSpot, Stripe, Builder, Grok, whatever comes next.
 
-If a method conflicts with this charter, the method loses.
+If a method conflicts with the Charter, the method loses. Theories are rented. The Charter is not.
 
 ---
 
@@ -34,7 +38,7 @@ No theory — Musk, Komar, growth, AI, robotics, holograms twenty years out — 
 
 The Musk operating system is a **velocity engine**. We use it to ship, decide, and stay on critical path. We do not use it to strip dignity, invent mythology about the dead, or treat families as units.
 
-Map:
+Full executable map: `docs/sales/MUSK_VELOCITY_ENGINE.md`.
 
 | Musk principle | Living Obituary translation | Charter constraint |
 |---|---|---|
@@ -199,7 +203,7 @@ When a new stack arrives (this Musk playbook, a sales OS, an AI agent, a robot c
 3. If yes, take the mechanism (decision velocity, takt, backbone).
 4. If it asks us to scrape the dead, sell a monthly ghost, or let a model author the life — reject it.
 
-Jesus Christ remains the guiding principle of Living Obituary. Locked in this file, in this repo, in this company. Theories are rented. The charter is not.
+Jesus Christ remains the guiding principle of Living Obituary. Locked in `docs/CHARTER.md`, in this repo, in this company, on this app. Theories are rented. The charter is not.
 
 ---
 
